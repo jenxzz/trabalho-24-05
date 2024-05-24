@@ -1,0 +1,18 @@
+h1 {
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: aliceblue;
+}
+
+body {
+    background-color: black;
+}
+
+.um {
+    align-items: center;
+}
+
+.dois {
+    align-items: center;
+}
